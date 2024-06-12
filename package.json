@@ -2,7 +2,10 @@
   "name": "music",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+
+    "browserstack-test": " npx browserstack-node-sdk playwright test"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
