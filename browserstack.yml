@@ -1,0 +1,7 @@
+userName: srikanthathikari_ZYPU0S
+accessKey: 8anEBpazr8fZQkN7tFxw
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: chrome
+    browserVersion: latest

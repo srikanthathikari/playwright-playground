@@ -1,0 +1,21 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.2",
+    "browserstack-node-sdk": "^1.33.3"
+  },
+  "dependencies": {
+    "browserstack-local": "^1.5.5",
+    "playwright": "^1.44.1",
+    "playwright-core": "^1.44.1",
+    "undici-types": "^5.26.5"
+  },
+  "description": ""
+}

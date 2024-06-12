@@ -1,0 +1,32 @@
+2024-06-11 21:26:09 - [32minfo[39m: Reading configs from C:\Users\srika\Music\browserstack.yml
+2024-06-11 21:26:10 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-11 21:26:11 - [32minfo[39m: Getting your playwright config from C:\Users\srika\Music\playwright.config.ts
+2024-06-11 21:26:12 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-06-11 21:26:41 - [32minfo[39m: Visit https://observability.browserstack.com/builds/5qzjwnljchd09yxowe8ja5jv9axgfvak8wry7hrt to view build report, insights, and many more debugging information all at one place!
+
+2024-06-11 21:26:41 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2024-06-11 21:26:42 - [32minfo[39m: Deleting C:\Users\srika\Music\playwright-browserstack-sdk.config.js
+2024-06-11 21:32:53 - [32minfo[39m: Reading configs from C:\Users\srika\Music\browserstack.yml
+2024-06-11 21:32:53 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-11 21:32:54 - [32minfo[39m: Getting your playwright config from C:\Users\srika\Music\playwright.config.ts
+2024-06-11 21:32:55 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-06-11 21:33:21 - [32minfo[39m: Visit https://observability.browserstack.com/builds/7qkbktzhzq1m1wifykxe7xf8mcx7cw9zsnaidjtd to view build report, insights, and many more debugging information all at one place!
+
+2024-06-11 21:33:21 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2024-06-11 21:33:21 - [32minfo[39m: Deleting C:\Users\srika\Music\playwright-browserstack-sdk.config.js
+2024-06-11 21:34:16 - [32minfo[39m: Reading configs from C:\Users\srika\Music\browserstack.yml
+2024-06-11 21:34:16 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-11 21:34:17 - [32minfo[39m: Getting your playwright config from C:\Users\srika\Music\playwright.config.ts
+2024-06-11 21:34:18 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-06-11 21:34:45 - [32minfo[39m: Visit https://observability.browserstack.com/builds/hhpnsyrwphqmhmjbfvkfzbydndwinezql3kzrsm6 to view build report, insights, and many more debugging information all at one place!
+
+2024-06-11 21:34:45 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2024-06-11 21:34:46 - [32minfo[39m: Deleting C:\Users\srika\Music\playwright-browserstack-sdk.config.js
+2024-06-11 21:35:22 - [32minfo[39m: Reading configs from C:\Users\srika\Music\browserstack.yml
+2024-06-11 21:35:23 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-11 21:35:23 - [32minfo[39m: Getting your playwright config from C:\Users\srika\Music\playwright.config.ts
+2024-06-11 21:35:24 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-06-11 21:35:37 - [32minfo[39m: Visit https://observability.browserstack.com/builds/5hed0sjnfuzhmknlp2nzku0wewbbnfihapixdrdf to view build report, insights, and many more debugging information all at one place!
+
+2024-06-11 21:35:37 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2024-06-11 21:35:38 - [32minfo[39m: Deleting C:\Users\srika\Music\playwright-browserstack-sdk.config.js
