@@ -10,4 +10,15 @@ test.beforeAll(async ({browser})=>{
 
 test('run check test', async () => {
   await page.goto('https://playwright.dev/')
+  await page.goto('https://playwright.dev/')
+  await page.goto('https://playwright.dev/')
+  await page.goto('https://playwright.dev/')
+  await page.goto('https://playwright.dev/')
+  await page.goto('https://playwright.dev/')
+  await page.goto('https://playwright.dev/')
+  await page.goto('https://playwright.dev/')
+  await page.goto('https://playwright.dev/')
+  await page.goto('https://playwright.dev/')
+  //I love you Amala 
+  // But Amala does not love me 
 })
